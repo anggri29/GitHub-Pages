@@ -9,6 +9,6 @@
 
 ### Мои любимые мемы про айти:
 
-![thisisfine](thisisfine.png)
+![thisisfine](this_is_fine.png)
 
 ![QA](9582f95b709f6d22464a67fb7ae79d37da3736f700daea6f0f6539be5ef3a49b_1.jpg)
